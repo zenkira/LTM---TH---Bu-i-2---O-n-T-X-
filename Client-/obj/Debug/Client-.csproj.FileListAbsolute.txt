@@ -1,0 +1,20 @@
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\bin\Debug\Client-.exe.config
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\obj\Debug\Client_.Form1.resources
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\obj\Debug\Client_.Properties.Resources.resources
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\obj\Debug\Client-.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\bin\Debug\Client-.exe
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\bin\Debug\Client-.pdb
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\obj\Debug\Client-.exe
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\Client-\obj\Debug\Client-.pdb
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\bin\Debug\Client-.exe.config
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\obj\Debug\Client-.exe
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\obj\Debug\Client-.pdb
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\bin\Debug\Client-.exe
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\bin\Debug\Client-.pdb
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\obj\Debug\Client-.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\obj\Debug\Client_.Form1.resources
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\obj\Debug\Client_.Properties.Resources.resources
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\Client-\obj\Debug\Client-.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\LTM - Bài 3.1 - Oẳn tù tì\LTM - Bài 3.1 - Oẳn tù tì\Client-\bin\Debug\Client-.exe.config
+C:\Users\Home\Documents\LTM - Bài 3.1 - Oẳn tù tì\LTM - Bài 3.1 - Oẳn tù tì\Client-\obj\Debug\Client-.exe
+C:\Users\Home\Documents\LTM - Bài 3.1 - Oẳn tù tì\LTM - Bài 3.1 - Oẳn tù tì\Client-\obj\Debug\Client-.pdb

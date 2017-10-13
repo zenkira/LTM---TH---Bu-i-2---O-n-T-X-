@@ -1,0 +1,21 @@
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\obj\Debug\Server.Form1.resources
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan_Bai2_2.Properties.Resources.resources
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\obj\Debug\Server.csproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan-Bai2-2.exe
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan-Bai2-2.pdb
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\bin\Debug\LamKimQuan-Bai2-2.exe.config
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\bin\Debug\LamKimQuan-Bai2-2.exe
+c:\users\home\documents\visual studio 2015\Projects\LamKimQuan-Bai2-2\LamKimQuan-Bai2-2\bin\Debug\LamKimQuan-Bai2-2.pdb
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\bin\Debug\LamKimQuan-Bai2-2.exe.config
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan-Bai2-2.exe
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan-Bai2-2.pdb
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\bin\Debug\LamKimQuan-Bai2-2.exe
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\bin\Debug\LamKimQuan-Bai2-2.pdb
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\obj\Debug\Server.Form1.resources
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan_Bai2_2.Properties.Resources.resources
+C:\Users\Home\Documents\LTM---TH---Bu-i-2---O-n-T-X--master\LTM---TH---Bu-i-2---O-n-T-X--master\LamKimQuan-Bai2-2\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Home\Documents\LTM - Bài 3.1 - Oẳn tù tì\LTM - Bài 3.1 - Oẳn tù tì\LamKimQuan-Bai2-2\bin\Debug\LamKimQuan-Bai2-2.exe.config
+C:\Users\Home\Documents\LTM - Bài 3.1 - Oẳn tù tì\LTM - Bài 3.1 - Oẳn tù tì\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan-Bai2-2.exe
+C:\Users\Home\Documents\LTM - Bài 3.1 - Oẳn tù tì\LTM - Bài 3.1 - Oẳn tù tì\LamKimQuan-Bai2-2\obj\Debug\LamKimQuan-Bai2-2.pdb
